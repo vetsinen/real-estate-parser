@@ -1,5 +1,5 @@
 // const fs = require('fs');
-// const rooms = fs.readFileSync('./rooms.json', {encoding: 'utf8', flag: 'r'})
+// const rooms = fs.readFileSync('./rooms-100pages.json', {encoding: 'utf8', flag: 'r'})
 // console.log(JSON.parse(rooms)[0])
 
 var str = "Hello^# World/";

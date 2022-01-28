@@ -32,7 +32,6 @@ async function grab() {
                 //room.img = $(el).find('.slick-track .slides__item').first().html()
 
                 rooms.push(room)
-                console.log(room)
             }
         )
     }
